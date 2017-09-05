@@ -19,5 +19,10 @@
 |15|[EsayICON图标](http://www.easyicon.net/)|
 |16|[虫部落资源搜索-快搜-磁力](http://magnet.chongbuluo.com/)|
 |17|[国家药监局数据查询](http://app1.sfda.gov.cn/datasearch/face3/dir.html)|
+|18|[国家专利局-收费信息检索](http://app.sipo.gov.cn:8080/searchfee/searchfee.jsp)|
+|19|[豆瓣](https://www.douban.com/people/lencue/)|
+|20|[浙大专业学位研究生管理信息系统](http://zyxw.zju.edu.cn/PDGManager/)|
+|21|[高清图库pexels](https://www.pexels.com/)|
+|22|[慧博投研资讯](http://www.hibor.com.cn/)|
 
 |N|[]()|
