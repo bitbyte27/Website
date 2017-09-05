@@ -14,6 +14,10 @@
 |10|[杭州市小客车总量调控管理信息系统](http://xkctk.hzcb.gov.cn/)|
 |11|[知乎](http://zhihu.com/people/lencue)|
 |12|[雪球](http://xueqiu.com/lencue)|
-
+|13|[陆金所](https://www.lu.com/)|
+|14|[国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)|
+|15|[EsayICON图标](http://www.easyicon.net/)|
+|16|[虫部落资源搜索-快搜-磁力](http://magnet.chongbuluo.com/)|
+|17|[国家药监局数据查询](http://app1.sfda.gov.cn/datasearch/face3/dir.html)|
 
 |N|[]()|
