@@ -24,5 +24,6 @@
 |20|[浙大专业学位研究生管理信息系统](http://zyxw.zju.edu.cn/PDGManager/)|
 |21|[高清图库pexels](https://www.pexels.com/)|
 |22|[慧博投研资讯](http://www.hibor.com.cn/)|
+|23|[狂人图书馆（魔力云学术）【5A20160530】](http://www.linkedu.cc/)|
 
 |N|[]()|
