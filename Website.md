@@ -11,7 +11,7 @@
 |7|[Soopat专利检索](http://www.soopat.com/)|
 |8|[中国专利在线系统](http://www.cponline.gov.cn/)|
 |9|[杭州住房公积金查询](http://xxgk.hzgjj.gov.cn:8080/WebAccounts/pages/per/login.jsp)|
-|10|[杭州市小客车总量调控管理信息系统](http://xkctk.hzcb.gov.cn/)|
+|10|[杭州市小客车总量调控管理信息系统](http://xkctk.hangzhou.gov.cn/)|
 |11|[知乎](http://zhihu.com/people/lencue)|
 |12|[雪球](http://xueqiu.com/lencue)|
 |13|[陆金所](https://www.lu.com/)|
