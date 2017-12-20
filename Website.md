@@ -28,5 +28,6 @@
 |24|[东方财富上市公司公告](http://data.eastmoney.com/notices/)|
 |25|[中国商标网-商标查询](http://sbj.saic.gov.cn/sbcx/)|
 |26|[航空意外险](http://www.4008000000.com/zaixiangoumai/baoxian/hangyixian_b.shtml)|
+|27|[阿里巴巴采购询价单](https://portal.go.1688.com/page/portal.htm?member_id=b2b-57661870)|
 
 |N|[]()|
