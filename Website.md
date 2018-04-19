@@ -29,5 +29,8 @@
 |25|[中国商标网-商标查询](http://sbj.saic.gov.cn/sbcx/)|
 |26|[航空意外险](http://www.4008000000.com/zaixiangoumai/baoxian/hangyixian_b.shtml)|
 |27|[阿里巴巴采购询价单](https://portal.go.1688.com/page/portal.htm?member_id=b2b-57661870)|
+|28|[银行利率列表](http://fav.jiankangjiaju.com/i/Rate/Rate.asp)|
+|29|[中国人民银行现行利率水平](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/125838/125885/index.html)|
+|30|[读秀试读图书查询](http://www.ucdrs.superlib.net/)|
 
 |N|[]()|
