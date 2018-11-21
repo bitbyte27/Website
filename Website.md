@@ -32,3 +32,5 @@
 |28|[银行利率列表](http://fav.jiankangjiaju.com/i/Rate/Rate.asp)|
 |29|[中国人民银行现行利率水平](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/125838/125885/index.html)|
 |30|[读秀试读图书查询](http://www.ucdrs.superlib.net/)|
+|31|[国家药品标准物质目录查询](http://aoc.nifdc.org.cn/sell/home/search.html)
+|32|[国家药品标准物质在线购买](http://aoc.nifdc.org.cn/sell/home/index.html)
