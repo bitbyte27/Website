@@ -35,3 +35,4 @@
 |31|[国家药品标准物质目录查询](http://aoc.nifdc.org.cn/sell/home/search.html)
 |32|[国家药品标准物质在线购买](http://aoc.nifdc.org.cn/sell/home/index.html)
 |33|[国家药品监督管理局](http://www.nmpa.gov.cn/WS04/CL2042/)
+|34|[国家药品监督管理局-数据查询](http://app1.sfda.gov.cn/datasearchcnda/face3/dir.html)
